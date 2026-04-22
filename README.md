@@ -1,4 +1,4 @@
-# 🛒 Fullstack Product Management App
+# 🛒 App CRUD
 
 CRUD application built with **Vue 3 (TypeScript)** for frontend and **Node.js + Express + PostgreSQL** for backend.
 
